@@ -1,4 +1,4 @@
-package com.company.虚拟机字节码执行引擎.动态类型语言支持;
+package com.company.虚拟机字节码执行引擎.方法调用;
 
 import java.lang.invoke.MethodHandle;
 import java.lang.invoke.MethodType;
